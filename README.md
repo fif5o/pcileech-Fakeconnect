@@ -7,3 +7,5 @@ While paying attention to this project, please also check this to prevent being 
 https://github.com/fif5o/pcileech-ScamList 
 
 在关注此项目的同时，也请查看防止上当受骗
+
+在此项目发出后的1-2周后，vanguard成功检测
